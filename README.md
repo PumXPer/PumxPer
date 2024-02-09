@@ -7,6 +7,7 @@ Data scientist/engineer and Full Stack Developer
 Learn Full Stack Developer from year 1 - 3 and part-time for 4 months, Internship Data scientist/engineer 10 months
 
 *   🌍  I'm based in Chiang mai
+*   🖥️  See my portfolio at [MyPortfolio](http://pumxper.github.io/)
 *   ✉️  You can contact me at [phornpitak.k@gmail.com](mailto:phornpitak.k@gmail.com)
 
 ### Skills 
