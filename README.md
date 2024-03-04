@@ -8,6 +8,7 @@ Learn Full Stack Developer from year 1 - 3 and part-time for 4 months, Internshi
 
 *   🌍  I'm based in Chiang mai
 *   🖥️  See my portfolio at [MyPortfolio](http://pumxper.github.io/)
+*   📄  Resume/CV [Drive](https://drive.google.com/file/d/1ro3IoOU1AsVgpdZN0ADTvb-iy8gEP-7u/view?usp=sharing)
 *   ✉️  You can contact me at [phornpitak.k@gmail.com](mailto:phornpitak.k@gmail.com)
 
 ### Skills 
