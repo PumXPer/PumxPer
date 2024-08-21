@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phornpitak Kadta
 ========================================================================================================================================
 
-Data scientist/engineer and Full Stack Developer
+Data Analytics Engineer
 ------------------------------------------------
 
 Learn Full Stack Developer from year 1 - 3 and part-time for 4 months, Internship Data scientist/engineer 10 months
