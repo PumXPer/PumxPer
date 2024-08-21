@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analytics Engineer
 ------------------------------------------------
 
-Learn Full Stack Developer from year 1 - 3 and part-time for 4 months, Internship Data scientist/engineer 10 months
-
 *   🌍  I'm based in Chiang mai
 *   🖥️  See my portfolio at [MyPortfolio](http://pumxper.github.io/)
 *   📄  Resume/CV [Drive](https://drive.google.com/file/d/1ro3IoOU1AsVgpdZN0ADTvb-iy8gEP-7u/view?usp=sharing)
