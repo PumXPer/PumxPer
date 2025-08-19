@@ -5,7 +5,6 @@ Data Analytics Engineer
 ------------------------------------------------
 
 *   🌍  I'm based in Chiang mai
-*   📄  Resume/CV [Drive](https://drive.google.com/file/d/1ro3IoOU1AsVgpdZN0ADTvb-iy8gEP-7u/view?usp=sharing)
 *   ✉️  You can contact me at [phornpitak.k@gmail.com](mailto:phornpitak.k@gmail.com)
 *   📁  Final Project [Customer Segmentation](https://drive.google.com/file/d/1B12_5OGPpl17Gqvkg0_IUukZzvttyrOm/view?usp=drive_link)
 
